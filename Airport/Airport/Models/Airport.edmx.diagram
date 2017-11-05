@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="625167d9db1148eaa17aa50c4a0a6a99" Name="Diagram1">
+        <EntityTypeShape EntityType="airportModel.Airports" Width="1.5" PointX="5.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="airportModel.City" Width="1.5" PointX="3" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="airportModel.Company" Width="1.5" PointX="5.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="airportModel.Country" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="airportModel.fly" Width="1.5" PointX="7.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="airportModel.Gate" Width="1.5" PointX="5.25" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="airportModel.Runway" Width="1.5" PointX="5.25" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="airportModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <AssociationConnector Association="airportModel.Airports_fk0" ManuallyRouted="false" />
+        <AssociationConnector Association="airportModel.fly_fk5" ManuallyRouted="false" />
+        <AssociationConnector Association="airportModel.City_fk0" ManuallyRouted="false" />
+        <AssociationConnector Association="airportModel.fly_fk4" ManuallyRouted="false" />
+        <AssociationConnector Association="airportModel.fly_fk0" ManuallyRouted="false" />
+        <AssociationConnector Association="airportModel.fly_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="airportModel.fly_fk2" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

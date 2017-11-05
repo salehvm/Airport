@@ -1,0 +1,14 @@
+c:\users\samo\source\repos\Airport\Airport\bin\Debug\Airport.exe.config
+c:\users\samo\source\repos\Airport\Airport\bin\Debug\Airport.exe
+c:\users\samo\source\repos\Airport\Airport\bin\Debug\Airport.pdb
+c:\users\samo\source\repos\Airport\Airport\bin\Debug\EntityFramework.dll
+c:\users\samo\source\repos\Airport\Airport\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\samo\source\repos\Airport\Airport\bin\Debug\EntityFramework.xml
+c:\users\samo\source\repos\Airport\Airport\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\samo\source\repos\Airport\Airport\obj\Debug\Airport.Form1.resources
+c:\users\samo\source\repos\Airport\Airport\obj\Debug\Airport.Properties.Resources.resources
+c:\users\samo\source\repos\Airport\Airport\obj\Debug\Airport.csproj.GenerateResource.Cache
+c:\users\samo\source\repos\Airport\Airport\obj\Debug\Airport.csproj.CoreCompileInputs.cache
+c:\users\samo\source\repos\Airport\Airport\obj\Debug\Airport.exe
+c:\users\samo\source\repos\Airport\Airport\obj\Debug\Airport.pdb
+C:\Users\samo\source\repos\Airport\Airport\obj\Debug\Airport.csprojResolveAssemblyReference.cache
